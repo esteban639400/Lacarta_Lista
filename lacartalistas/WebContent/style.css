@@ -1,0 +1,13 @@
+@charset "UTF-8";
+ul#uno{
+	list-style-type:circle;
+}
+ul#dos{
+	list-style-type:decimal;
+}
+ul#tres{
+	list-style-type:lower-alpha;
+}
+ul#cuatro{
+	list-style-type:upper-roman;
+}
